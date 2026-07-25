@@ -1,0 +1,4 @@
+# app-ads.txt — NextGenDev
+# IAB Tech Lab app-ads.txt spec v1.0
+# Arrow Out (com.nextgendev.arrowout)
+google.com, pub-7794287060977844, DIRECT, f08c47fec0942fa0
